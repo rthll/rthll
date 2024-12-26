@@ -1,7 +1,4 @@
-Olá! Meu nome é Rythielly e seja bem vindo ao meu perfil no GitHub. 👋
-
 ##
-
 <div style="display: inline_block"><br>
   <p>Aqui, são algumas das tecnologias que estou habituado.</p>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,8 +9,7 @@ Olá! Meu nome é Rythielly e seja bem vindo ao meu perfil no GitHub. 👋
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-</div>
-                             
+</div>                        
 ##
 
 
